@@ -17,33 +17,20 @@ Note: The MongoDB parts are commented out so that you can clone and run immediat
 ### [jQuery](http://jquery.com)
 
 ## File Tree
-.
-
-├── .gitignore
-
-├── LICENSE
-
-├── Procfile
-
-├── README.md
-
-├── css
-
-│   └── style.css
-
-├── js
-
-│   └── jquery-1.10.2.min.js
-
-├── package.json
-
-├── views
-
-│   ├── index.jade
-
-│   └── layout.jade
-
-└── web.js
+  .
+  ├── .gitignore
+  ├── LICENSE
+  ├── Procfile
+  ├── README.md
+  ├── css
+  │   └── style.css
+  ├── js
+  │   └── jquery-1.10.2.min.js
+  ├── package.json
+  ├── views
+  │   ├── index.jade
+  │   └── layout.jade
+  └── web.js
 
 ## File Explanations
 
